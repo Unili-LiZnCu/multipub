@@ -33,6 +33,7 @@ https://url.spec.whatwg.org/
 /lccn/mm2002084896
 ### DDC
 /ddc/283/595114
+### CODEN
 ### OpenLibrary ID
 /olid/
 ### Google Books
